@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com//bin/franklin.delivery/ajit-techwriter/ue-test-forms/main
+    url: https://author-p133911-e1313554.adobeaemcloud.com//bin/franklin.delivery/ajit-techwriter/ue-aem-forms-testing/main
     type: "markup"
     suffix: ".html"
